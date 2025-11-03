@@ -1,3 +1,5 @@
 backend-cripto/target/*
-backend-cripto/.vscode/launch.json
+backend-cripto/.vscode/*
+backend-cliente/target/*
+backend-cliente/.vscode/*
 docker/backend-cripto/*.jar
