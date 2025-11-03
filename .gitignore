@@ -3,3 +3,4 @@ backend-cripto/.vscode/*
 backend-cliente/target/*
 backend-cliente/.vscode/*
 docker/backend-cripto/*.jar
+docker/backend-cliente/*.jar
