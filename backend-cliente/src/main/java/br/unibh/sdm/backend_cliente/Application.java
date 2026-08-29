@@ -14,8 +14,9 @@ import io.swagger.v3.oas.annotations.info.License;
 
 /**
  * Classe executavel que inicia a aplicacao Spring Boot
- * @author Teste
+ * @author Jose Humberto Cruvinel
  * @since 2025
+ * 
  */
 @SpringBootApplication
 @EnableJpaRepositories(basePackages = "br.unibh.sdm.backend_cliente.persistencia")
