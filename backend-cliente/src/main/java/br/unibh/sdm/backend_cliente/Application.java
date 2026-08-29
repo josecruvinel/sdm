@@ -14,7 +14,7 @@ import io.swagger.v3.oas.annotations.info.License;
 
 /**
  * Classe executavel que inicia a aplicacao Spring Boot
- * @author jhcru
+ * @author Teste
  * @since 2025
  */
 @SpringBootApplication
